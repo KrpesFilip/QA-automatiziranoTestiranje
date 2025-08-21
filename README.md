@@ -8,13 +8,20 @@ Testirala se je web stranica smite.guru koristeći Google Chrome.
 ## Korištene tehnologije:
 
 InteliJ IDE-Razvojno okruženje
+
 Java JDK-Razvojni alati kao i kompailer za Java programski jezik
+
 Maven-Alat za automatizaciju buildova i upravljanje dodatnim library-ima ("dependencys managment")
+
 TestNG-Testni okvir za javu, omogućuje testne anotacije kao "@Test", grupiranje i davanje prioriteta testovima
+
 Rest assured-automatizirano testiranje zahtjeva na bazi HTTP (nije bilo moguće koristiti jer testirana web stranica onemogućuje automatizirano testiranje HTTP zahtjeva)
+
 Selenium WebDriver-alat za upravljanje web stranicama programski, omogućuje njihovo automatizirano testiranje
+
 Chrome Driver-izvršna datoteka koja omogućuje web driveru upravljanje Google Chrome aplikacijom
-Xpath- 
+
+Xpath- Jezik upita koji se koristi za pronalaženje i navigaciju elementima u XML ili HTML dokumentu.
 
 ## Testovi
 
