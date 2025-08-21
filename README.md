@@ -4,7 +4,7 @@
 Projekt je izrađen u InteliJ koristeći selenium WebDriver, Java programski jezik i TestNG testni okvir.
 Testirala se je web stranica smite.guru koristeći Google Chrome.
 
-
+Napomena za projekt: Neke  od datoteka nisu uploadane an git zbog lokalne gitGnore datoteke.
 ## Korištene tehnologije:
 
 InteliJ IDE-Razvojno okruženje
